@@ -1,0 +1,1 @@
+"""Inventory Intelligence portfolio project."""
